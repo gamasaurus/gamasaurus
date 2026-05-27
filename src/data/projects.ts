@@ -1,0 +1,48 @@
+import { Project } from '@/types';
+
+export const projects: Project[] = [
+  {
+    id: 1,
+    title: 'Aluria AI',
+    description: 'An AI-powered digital platform built with a focus on intelligent interaction and creative workflows. Features a polished interactive UI paired with an optimized backend for smooth, responsive user experiences. Built end-to-end — from design to deployment.',
+    stack: ['Next.js', 'GraphQL', 'Supabase', 'TypeScript', 'Vercel'],
+    role: 'Creator & Full-stack Developer',
+    impact: 'Live AI-powered platform with intelligent interaction patterns',
+    imageUrl: '/projects/aluria-ai.jpg',
+    caseStudyUrl: 'https://aluria-ai.vercel.app',
+    year: '2024',
+  },
+  {
+    id: 2,
+    title: 'Wonderkid',
+    description: 'A digital platform designed and developed from scratch — both front-end and back-end. Features an interactive UI optimized for engagement, with a performant backend powered by serverless PostgreSQL. Built for smooth, modern user experiences.',
+    stack: ['Next.js', 'GraphQL', 'Supabase', 'TypeScript', 'Vercel'],
+    role: 'Creator & Full-stack Developer',
+    impact: 'Full-stack digital platform with optimized performance',
+    imageUrl: '/projects/wonderkid.jpg',
+    caseStudyUrl: 'https://wonderkid.vercel.app',
+    year: '2024',
+  },
+  {
+    id: 3,
+    title: 'Dasiba Ban — Point of Sales',
+    description: 'A fully responsive Point of Sales web application built for Aeolus Partner. Features a clean, modern UI designed for user engagement, optimized performance with fast loading speeds, and integrated multimedia content including blog posts and product guides.',
+    stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Vercel'],
+    role: 'Full-stack Developer',
+    impact: 'Production POS system serving real business operations',
+    imageUrl: '/projects/dasiba-ban.jpg',
+    caseStudyUrl: 'https://dasiba-ban.vercel.app',
+    year: '2023',
+  },
+  {
+    id: 4,
+    title: 'Chamjo Design',
+    description: 'A digital design platform built end-to-end with modern web technologies. Combines an interactive, visually rich front-end with an optimized backend. Leverages serverless PostgreSQL for data management and GraphQL for efficient data fetching.',
+    stack: ['Next.js', 'GraphQL', 'Supabase', 'TypeScript', 'Vercel'],
+    role: 'Creator & Full-stack Developer',
+    impact: 'Live design platform with modern tech stack',
+    imageUrl: '/projects/chamjo-design.jpg',
+    caseStudyUrl: 'https://chamjo.design',
+    year: '2023',
+  },
+];
