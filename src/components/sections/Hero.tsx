@@ -98,9 +98,9 @@ export default function Hero() {
           <MagneticButton href="#projects" variant="primary">
             View Projects
           </MagneticButton>
-          {/* <MagneticButton href={personalInfo.cvUrl} variant="outline">
+          <MagneticButton href={personalInfo.cvUrl} variant="outline">
             Download CV
-          </MagneticButton> */}
+          </MagneticButton>
         </motion.div>
       </div>
 

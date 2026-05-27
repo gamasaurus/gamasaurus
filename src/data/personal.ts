@@ -12,5 +12,5 @@ export const personalInfo: PersonalInfo = {
   instagram: 'https://instagram.com/gmllshrn',
   yearsExperience: 4,
   projectsCompleted: 12,
-  cvUrl: '/cv.pdf',
+  cvUrl: 'cv/gamalliel_cv.pdf',
 };
