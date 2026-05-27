@@ -1,16 +1,16 @@
 import { PersonalInfo } from '@/types';
 
 export const personalInfo: PersonalInfo = {
-  name: 'Gamalliel Sharon',
+  name: 'Gamalliel Sharon Saragih',
   title: 'System Analyst · Indie Builder · Creative Technologist',
-  tagline: 'Building at the intersection of systems, design, and imagination.',
-  bio: 'I\'m a System Analyst with 4 years of experience across manufacturing and insurance industries. I specialize in translating business needs into effective system solutions, optimizing workflows, and supporting seamless system integration. Beyond the enterprise world, I build digital products independently — from AI-powered platforms to design tools — driven by curiosity and the belief that great systems deserve great interfaces.',
-  philosophy: 'I believe the best products emerge from the tension between systems thinking and creative intuition. Every system tells a story. Every interface is a conversation. I build at the edges where technology meets imagination.',
+  tagline: 'Designing systems, products, and digital experiences that feel both structured and alive.',
+  bio: 'I’m a System Analyst with 4 years of experience turning complex business processes into scalable digital solutions across insurance and enterprise environments. Outside corporate systems, I independently build products that blend technology, creativity, and experimentation — from AI-powered documentation platforms and developer tools to game concepts and visual brands. My work lives somewhere between analytical precision and artistic curiosity.',
+  philosophy: 'I believe technology should feel human. The strongest products are not only functional, but emotionally resonant — systems that solve problems while sparking curiosity. I enjoy building where logic, aesthetics, and imagination collide.',
   email: 'gamallielsaragih@gmail.com',
   linkedin: 'https://www.linkedin.com/in/gamalliel-sharon-43ba851a4/',
   github: 'https://github.com/gamasaurus',
-  instagram: 'https://instagram.com/gamasaurus',
+  instagram: 'https://instagram.com/gmllshrn',
   yearsExperience: 4,
-  projectsCompleted: 8,
+  projectsCompleted: 12,
   cvUrl: '/cv.pdf',
 };

@@ -9,7 +9,7 @@ const socialLinks = [
   { label: 'Email', href: `mailto:${personalInfo.email}`, display: personalInfo.email },
   { label: 'GitHub', href: personalInfo.github, display: 'github.com/gamasaurus' },
   { label: 'LinkedIn', href: personalInfo.linkedin, display: 'linkedin.com/in/gamalliel-sharon' },
-  { label: 'Website', href: 'https://gmllshrn.vercel.app/', display: 'gmllshrn.vercel.app' },
+  { label: 'Instagram', href: personalInfo.instagram, display: 'instagram/gmllshrn' },
 ];
 
 export default function Contact() {

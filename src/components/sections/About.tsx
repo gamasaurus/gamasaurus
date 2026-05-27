@@ -7,11 +7,13 @@ import SectionHeading from '@/components/ui/SectionHeading';
 
 const focusAreas = [
   'System Analysis & Design',
-  'ERP Development',
-  'Process Automation',
-  'API Integration',
+  'AI-powered Products',
+  'Creative Technology',
+  'Workflow Automation',
   'Full-stack Development',
-  'Digital Products',
+  'Product Strategy',
+  'Digital Experience Design',
+  'Indie SaaS Building',
 ];
 
 const stats = [

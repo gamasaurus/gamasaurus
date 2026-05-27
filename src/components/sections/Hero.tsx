@@ -51,9 +51,9 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="mb-8"
         >
-          <span className="font-mono text-xs text-[#555555] tracking-[0.3em] uppercase">
+          {/* <span className="font-mono text-xs text-[#555555] tracking-[0.3em] uppercase">
             Portfolio · {new Date().getFullYear()}
-          </span>
+          </span> */}
         </motion.div>
 
         {/* Main Title - Large Editorial Typography */}
@@ -98,9 +98,9 @@ export default function Hero() {
           <MagneticButton href="#projects" variant="primary">
             View Projects
           </MagneticButton>
-          <MagneticButton href={personalInfo.cvUrl} variant="outline">
+          {/* <MagneticButton href={personalInfo.cvUrl} variant="outline">
             Download CV
-          </MagneticButton>
+          </MagneticButton> */}
         </motion.div>
       </div>
 
